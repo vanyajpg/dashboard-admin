@@ -1,7 +1,7 @@
 # 📝 Admin That
 'Admin That' -> a sleek and intuitive admin dashboard. Seamlessly manage your administrative tasks with ease. Stay in control, streamline operations, and make data-driven decisions effortlessly
 ## [Hosted Here on Netlify](https://adminthat.netlify.app/)
-<img src="https://im5.ezgif.com/tmp/ezgif-5-27732d1e4d.gif" width="100%" />
+![adminThat](https://github.com/vanyajpg/dashboard-admin/assets/113653431/28cc5ee1-f05c-40de-9ae3-ff8c07880909)
 
 
 <!-- TOOLS -->
