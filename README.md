@@ -15,7 +15,7 @@ Tech used: React.js React Pro Sidebar, MaterialUI, MaterialUI DataGrid, FullCale
 - [ ] Functional search bar
 
 <!-- LESSONS LEARNED -->
-## Lessons Learned:
+## 💫 Lessons Learned:
 WOW, I learned a lot while tackling this dashboard. I'm React's newest fan, all the available packages make building so efficient and digestable. Some takeaways include:
 - Nivo has some of the best charts I have ever seen and I love how you can customize the charts and see the update in real time in their documentation.
 - Material UI is a game changer. This was my first time digging into MUI and it was very helpful to be able to create a custom theme color palette that could be referenced throughout the team. Passing a mode to select light or dark mode was really neat and definitely something I plan to incorporate in my future applications.
